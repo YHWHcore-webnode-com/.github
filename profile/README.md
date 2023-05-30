@@ -40,10 +40,13 @@ ciudad,  así como demás sectores sociales del pueblo,  es condición indispens
 CONSIDERANDO:
 
 RESOLUCIÓN CLAP 008: se autoriza el financiamiento en su totalidad del sistema Económico Comunal  y de la Cripto moneda del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 y de la cripto moneda del Estado Comunal ABYA YALA como alternativa a la moneda de curso legal en el territorio de la República estructurada por la Denominación y Leyenda vigente el Sello Oficial de la República y la figura de la CHAKANA y el Sol junto al perfil de Simón Bolívar contentiva de un Gramo de oro de 18 quilates, así como la consolidación de la moneda digital en la Banca electrónica Mundial, así mismo la creación del dinero físico: moneda, billetes, vales, valores oficiales entre otros y  la ejecución y puesta en marcha en toda su totalidad del plan de la patria 2013-2019 en lo nacional y externacional. 
+https://comuna-la-paz.webnode.com.ve/l/copia-de-resolucion-clap001/
 
 RESOLUCIÓN CLAP 015: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  activación de  la Plataforma bancaria digital y su sistema de CRIPTO ACTIVOS del Consejo de Economía Comunal (Banco de la Comuna) COMUNA  SOCIALISTA LA PAZ y puesta en marcha en el 100% de toda su operatividad y comience su funcionamiento para la ejecución de todas las transacciones  y operaciones financieras en el territorio nacional e internacional.                  
+https://comuna-la-paz.webnode.com.ve/l/resolucion-clap-015/
 
 RESOLUCIÓN CLAP 016: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  Propuestas de PAZ. del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 
+https://lavirtud9.webnode.es/blog-de-evidencias/
 
 # CONTRATOS PUBLICADOS:
 ## CUENTA DEL EMISOR
