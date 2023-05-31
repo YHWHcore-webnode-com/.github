@@ -137,15 +137,14 @@ En cambio, en los “contratos inteligentes” no se necesita  ni de notarios ni
 # CRIPTO ACTIVOS S.I.E.C.
 ## SISTEMA DE INTERCAMBIO ECONÓMICO COMUNAL.
 
-## ------------ SECRETO  ------------
-MISTERIO Github.
+## MISTERIO Github.
 Escuela de Misterio Fuente de Agua Viva Los 7 Mares del Cielo.
 Repositorios Proyecto: YHWHcore/YHWHcore
+NOMENSCLATURA: XIIIEMFAL7MC
 
 https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
 
 https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de-agua-viva-los-7-mares-del-cielo
-
 
 ## YHWHcore (MAN)
 
@@ -155,11 +154,9 @@ https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de
 
 *YHWH.txt
 
-
 Detalles del proyecto YHWHcore https://yhwhcore.webnode.page
 
 Detalles del proyecto YHWHcore https://yhwhcore7.webnode.com.ve
-
 
 # YHWHcore v 1.0.0.0-g 32 bit (Test)
 ## YHWHcore (MAN) 
