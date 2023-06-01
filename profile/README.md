@@ -916,8 +916,8 @@ https://www.YHWHcore7.webnode.page
 
 https://www.enronapp.webnode.com.ve/   
 
-## APP MOVILES.
-| APP YULIBOT WEB
+## APP WEB.
+| YULIBOT-app
 
 https://a.picoapps.xyz/Tempora-account/                                                                        
 
