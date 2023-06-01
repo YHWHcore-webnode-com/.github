@@ -910,9 +910,14 @@ https://www.YHWHcore.webnode.page
 
 YHWHcore S.I.E.C.
 https://www.YHWHcore7.webnode.page  
-                                                           
+
+ENRON corporacion Web (contenido YHWHcore)
+https://enroncorporationweb.webnode.es
+
+ENRONapp (app Contenido YHWHcore)
+https://www.enronapp.webnode.com.ve/ 
+
 ## APP MOVILES. 
-https://www.enronapp.webnode.com.ve/  
 
 ECAY.apk
 (https://drive.google.com/file/d/1PTmIs9J7fZbr9DD77Ysacpj0q8daNlFm/view)
