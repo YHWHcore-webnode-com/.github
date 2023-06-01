@@ -21,8 +21,11 @@ D°- Respuesta de la QUERELLA Emitida por: MARCO ANTONIO NIEVES GARCIA C.I.V-17.
 
 
 # LIBRO BLANCO  
-## PLATAFORMA YHWHcore.
+## Introducción.
 
+El objetivo de este libro blanco es presentar la plataforma YHWHcore, un innovador Sistema de Intercambio Económico Comunal, que se ha desarrollado para transformar la forma en que se lleva a cabo el intercambio económico dentro de las comunidades. Este documento proporcionará información detallada sobre la plataforma YHWHcore, sus características y su modelo operativo.
+
+## PLATAFORMA YHWHcore.
 Quien suscribe, MARCO ANTONIO NIEVES GARCIA  CI: 17.004.376, en mi carácter de  MAGISTRADO del CONSEJO DE ECONOMIA COMUNAL DEL ESTADO COMUNAL ABYA YALA. Constituyentes del CONCEJO DEL PODER POPULAR ECOLÓGICO DE DESARROLLO ETNO ENDÓGENO EJE SOCIALISTA RIF: J29918558-2 como única instancia de participación registrada en tiempo hábil de hecho de derecho, y de justicia, en nuestro carácter de pueblo originario en concordancia con los Artículos: 5,70, 126 de la constitución de la República Bolivariana de Venezuela, y de la Ley Orgánica del Poder Popular, ARTÍCULOS: 1 y 2 al encontrarnos adecuados en un consejo de base legalmente constituido, en el territorio nacional, protocolizado a través de una instancia del Poder Popular, para sus efectos, siendo el CONSEJO SOBERANO del Poder Popular Ecológico de Desarrollo Endógeno Eje Socialista, SISTEMA DE AGREGACIÓN COMUNAL CAPITAL BARINAS, como única instancia legal de participación del PODER POPULAR constituidas en la Nación, en cumplimiento con la disposición final primera de la Ley Orgánica del Poder Popular. De acuerdo a lo establecido en los artículos: 2, 5, 7, 70, 118, 126, 184, 308 de la CONSTITUCIÓN DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA artículo: 1, 2, 4, 7 y 8, Numerales: 1°, 2°, 3°, 4°, 5°,  6°, 7°, 8°, 9°, 10°, 11°, 12°, 13°, 14°. Artículos: 17, 24, 27, 28, 29, 30, 31 de la Ley Orgánica del Poder Popular, Gaceta Oficial N° 6.011, de 21 de diciembre de 2010 y la ley Orgánica del Sistema Económico Comunal en sus artículos: 36, 37 y 39, numerales 1°, 2°, 3° Gaceta Oficial N° 6.011, de 21 de diciembre de 2010. De conformidad con lo establecido en el PLAN DE LA PATRIA 2013 -2019, específicamente lo previsto en el 2° GRAN OBJETIVO HISTÓRICO: ” Continuar construyendo el socialismo del siglo XXI en Venezuela, como alternativa al modelo salvaje del capitalismo y con ello asegurar la “mayor suma de seguridad social, mayor suma de estabilidad política y la mayor  suma de  felicidad”, para nuestro pueblo”, Haciendo uso de lo establecido en la Constitución de la República Bolivariana de Venezuela, en su ARTÍCULO 5:  “La soberanía reside intransferiblemente en el pueblo, quien la ejerce directamente en la forma prevista en esta Constitución y en la ley, e indirectamente, mediante el sufragio, por los órganos que ejercen el Poder Público. Los órganos del Estado emanan de la soberanía popular y a ella están sometidos.”, ARTÍCULO 88:” El Estado garantizará la igualdad y equidad de hombres y mujeres en el ejercicio del derecho al trabajo. El Estado reconocerá el trabajo del hogar como actividad económica que crea valor agregado y produce riqueza y bienestar social. Las amas de casa tienen derecho a la seguridad  social  de  conformidad  con  la ley. ARTÍCULO 118: Se reconoce el derecho de los trabajadores y trabajadoras, así como de la comunidad para desarrollar asociaciones de carácter social y participativo, como las cooperativas, cajas de ahorro, mutuales y otras formas asociativas. Estas asociaciones podrán desarrollar cualquier tipo de actividad económica, de conformidad con la ley. La ley reconocerá las especificidades de estas organizaciones, en especial, las relativas al acto cooperativo, al trabajo asociado y su carácter generador de beneficios colectivos. EL estado promoverá y protegerá estas asociaciones destinadas a mejorar  la economía popular y alternativa. ARTÍCULO 308: El Estado protegerá y promoverá la pequeña y mediana industria, las cooperativas, las cajas de ahorro, así como también la empresa familiar, la microempresa y cualquier otra forma de asociación comunitaria para el trabajo, el ahorro y el consumo, bajo régimen de propiedad colectiva, con el fin de fortalecer el desarrollo económico del país, sustentándolo en la iniciativa popular. Se asegurará la capacitación, la asistencia técnica y el financiamiento oportuno. ARTÍCULO 153: La República promoverá y favorecerá la integración latinoamericana y caribeña, en aras de avanzar hacia la creación de una comunidad de naciones, defendiendo los intereses económicos, sociales, culturales, políticos y ambientales de la región. La República podrá suscribir tratados internacionales que conjuguen y coordinen esfuerzos para promover el desarrollo común de nuestras naciones, y que garanticen el bienestar de los pueblos y la seguridad colectiva de sus habitantes. Para estos fines, la República podrá atribuir a organizaciones supranacionales, mediante tratados, el ejercicio de las competencias necesarias para llevar a cabo estos procesos de integración. Dentro de las políticas de integración y unión con Latinoamérica y el Caribe, la República privilegiará relaciones con Iberoamérica, procurando sea una política común de toda nuestra América Latina. Las normas que se adopten en el marco de los acuerdos de integración serán consideradas parte integrante del ordenamiento legal vigente y de aplicación directa y preferente a la legislación interna. ARTÍCULO 184: La ley creará mecanismos abiertos y flexibles para que los Estados y los Municipios descentralicen y transfieran a las comunidades y grupos vecinales organizados los servicios que éstos gestionen previa demostración de su capacidad para prestarlos, promoviendo: 1. La transferencia de servicios en materia de salud, educación, vivienda, deporte, cultura, programas sociales, ambiente, mantenimiento de áreas industriales, mantenimiento y conservación de áreas urbanas, prevención y protección vecinal, construcción de obras y prestación de servicios públicos. A tal efecto, podrán establecer convenios cuyos contenidos estarán orientados por los principios de interdependencia, coordinación, cooperación y corresponsabilidad. 2. La participación de las comunidades y de ciudadanos o ciudadanas, a través de las asociaciones vecinales y organizaciones no gubernamentales, en la formulación de propuestas de inversión ante las autoridades estadales y municipales encargadas de la elaboración de los respectivos planes de inversión, así como en la ejecución, evaluación y control de obras, programas sociales y servicios públicos en su jurisdicción. 3. La participación en los procesos económicos estimulando las expresiones de la economía social, tales como cooperativas, cajas de ahorro, mutuales y  otras  formas asociativas. 4.  La participación de los trabajadores y trabajadoras y comunidades en la gestión de las empresas públicas mediante mecanismos autogestionarios y cogestionaros. 5. La creación de organizaciones, cooperativas y empresas comunales de servicios, como fuentes generadoras de empleo y de bienestar social, propendiendo a su permanencia mediante el diseño de políticas en las cuales aquellas tengan participación. 6. La creación de nuevos sujetos de descentralización a nivel de las parroquias, las comunidades, los barrios y las vecindades a los fines de garantizar el principio de la corresponsabilidad en la gestión pública de los gobiernos locales y estadales y desarrollar procesos autogestionarios y cogestionaros en la administración y control de los servicios públicos estadales y municipales. 7. La participación de las comunidades en actividades de acercamiento a los establecimientos penales y de vinculación de éstos con la población. Haciendo uso de lo establecido en la LEY ORGÁNICA DEL PODER POPULAR, en específico, lo previsto en el ARTÍCULO 3, que establece: ARTÍCULO 3: El Poder Popular se fundamenta en el principio de soberanía y el sentido de progresividad de los derechos contemplados en la Constitución de la República, cuyo ejercicio y desarrollo está determinado por los niveles de conciencia política y organización del pueblo. EL ARTICULO 4, que establece: ARTICULO 4: El Poder Popular tiene por finalidad garantizar la vida y el bienestar social del pueblo, mediante la creación de mecanismos para su desarrollo social y espiritual, procurando la igualdad de condiciones para que todos y todas desarrollen libremente su personalidad, dirijan su destino, disfruten los derechos humanos y alcancen la suprema felicidad social; sin discriminaciones por motivos de origen étnico, religioso, condición social, sexo, orientación sexual, identidad y expresión de género, idioma, opinión política, nacionalidad u origen, edad, posición económica, condición de discapacidad o cualquier otra circunstancia personal, jurídica o social, que tenga por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos humanos y garantías constitucionales. ARTÍCULO 8 NUMERAL 1, que es del tenor siguiente: ARTICULO 8: A los efectos de la presente Ley se entiende por: 1.- Asamblea de ciudadanos y ciudadanas: Máxima instancia de participación y decisión de la comunidad organizada, conformada por la integración de personas con cualidad jurídica, según la ley que regule la forma de participación, para el ejercicio directo del poder y protagonismo popular, cuyas decisiones son de carácter vinculante para la comunidad, las distintas formas de organización, el gobierno comunal y las instancias del Poder Público, de acuerdo a lo que establezcan las leyes que desarrollen la constitución, organización y funcionamiento de los autogobiernos comunitarios, comunales y los sistemas de agregación que de éstos surjan. ARTICULO 8 Numeral 5, que es del tenor siguiente: ARTÍCULO 8: A los efectos de la presente ley se entiende por Comunidad organizada: Constituida por las expresiones organizativas populares, consejos de trabajadores y trabajadoras, de campesinos y campesinas, de pescadores y pescadoras y cualquier otra organización social de base, articulada a una instancia del Poder  Popular debidamente  reconocida  por  la  ley  y  registrada en el Ministerio del 
 Poder Popular con competencia en materia de participación ciudadana. Del ARTÍCULO 11 numeral 1 que es del tenor siguiente: ARTICULO 11: Las organizaciones y expresiones organizativas del Poder Popular tienen como fines: 1. Consolidar la democracia participativa y protagónica, en función de la insurgencia del Poder Popular como hecho histórico para la construcción de la sociedad socialista, democrática, de derecho y de justicia. Del ARTÍCULO 23: Los órganos, entes e instancias del Poder Público promoverán, apoyarán y acompañarán las iniciativas populares para la constitución, desarrollo y consolidación de las diversas formas organizativas y de autogobierno del pueblo. Del ARTÍCULO 24: Todos los órganos, entes e instancias del Poder Público guiarán sus actuaciones por el principio de gobernar obedeciendo, en relación con los mandatos de los ciudadanos, ciudadanas y de las organizaciones del Poder Popular, de acuerdo a lo establecido en la Constitución de la República y las leyes. Su DISPOCISIÓN FINAL PRIMERA: Que establece:” PRIMERA: Las instancias y organizaciones del Poder Popular preexistentes a la entrada en vigencia de la presente ley, adecuarán su organización y funcionamiento a las disposiciones de la misma, en un lapso de ciento ochenta días contados a partir de su publicación de la Gaceta Oficial de la República Bolivariana de Venezuela. Su Disposición  Final CUARTA: Que establece “CUARTA: Quedan derogadas todas aquellas disposiciones legales que coliden con las disposiciones de la presente ley. Asimismo, asumiendo los cinco (5) Objetivos Históricos planteados  por el Comandante Supremo de la Revolución  Bolivariana HUGO RAFAEL CHAVEZ FRIAS  en nuestra propuesta de gobierno patrio para la gestión bolivariana y socialista (2013-2019); en EL PLAN DE LA PATRIA,  desarrollándolos y fortaleciéndolos  en nuestra realidad nacional e internacional, a saber: 
 
@@ -52,6 +55,78 @@ https://lavirtud9.webnode.es/blog-de-evidencias/
 ## CUENTA DEL EMISOR
 TRPPuWmcHQw3hLuzt9azNuNi2b2LcUmCXU
 https://tronscan.org/#/address/TRPPuWmcHQw3hLuzt9azNuNi2b2LcUmCXU 
+
+# Sistema de Intercambio Economico Comunal S.I.E.C.
+
+## YHWHcore v 1.0.0.0-g 64 bit (main)
+
+Compilación del sistema operativo. Ubuntu 
+
+Rama de origen.  3.3
+
+Algoritmo.  Prueba de trabajo y prueba de participación de Quark
+
+nombre de la moneda. YHWH
+
+abreviatura de moneda.  MAN
+
+Carta de dirección pública. 9
+
+Testnet de carta de megafonía. X
+
+puerto RPC. 5205
+
+puerto P2P. 5206
+
+Bloquear recompensa. 50
+
+monedasRecompensa de bloque (PoS). 9 monedas 
+
+Propiedades avanzadas
+
+Último bloque PoW. bloque 20000000
+
+Recompensa de superbloque. 10%
+
+Recompensa de nodo maestro. 50%
+
+Cantidad de nodos maestros. 4500 monedas
+
+Confirmaciones de nodos maestros. 15 bloques
+
+Madurez de la base de monedas. 20 ( + 1 confirmación predeterminada) bloques 
+
+Espaciado objetivo. 5 minutos
+
+Intervalo de tiempo objetivo. 10 minutos
+
+Confirmaciones de transacciones. 6 ( + 1 confirmación predeterminada) bloques
+
+marca de tiempo. (el tiempo catorce de febrero de 2019 es propicio para el Amor). 
+
+https://yhwhcore7.webnode.com.ve/
+
+## ¿Qué es YHWHcore?
+
+YHWHcore es un Sistema de Intercambio Económico Comunal que opera como una plataforma digital diseñada para facilitar el comercio y el intercambio entre las comunidades. La plataforma permite a los usuarios intercambiar bienes y servicios mediante el uso de una moneda digital basada en una criptomoneda conocida como (MAN y YHWHcoin).
+
+## Características de YHWHcore
+
+La plataforma YHWHcore ofrece algunas características únicas que la diferencian de otras plataformas de intercambio económico existentes. Estas características incluyen:
+
+1. Intercambio de bienes y servicios: La plataforma YHWHcore permite a los usuarios intercambiar bienes y servicios sin la necesidad de usar dinero fiduciario.
+
+2. Moneda digital: YHWHcore utiliza una criptomoneda conocida como YHWHcoin, que además de ser una moneda digital descentralizada y segura, es también una moneda sostenible y amigable con el medio ambiente.
+
+3. Comercio justo: La plataforma YHWHcore promueve un sistema de comercio justo al permitir que los usuarios fijen sus propios precios y negocien directamente entre sí.
+
+4. Comunidad: La plataforma YHWHcore fomenta la construcción de una comunidad activa y comprometida que pueda crecer y prosperar juntos.
+
+## Modelo operativo de YHWHcore
+
+El modelo operativo de YHWHcore se basa en el intercambio de bienes y servicios mediante el uso de la criptomoneda YHWHcoin. Los usuarios se registran en la plataforma y reciben una billetera digital en la que pueden almacenar su YHWHcoin. A partir de ahí, los usuarios pueden comprar y vender bienes y servicios directamente entre sí. La plataforma también ofrece una función de oferta y demanda, donde los usuarios pueden publicar sus necesidades y ofertas para que otros usuarios las vean y puedan responder.
+
+Además, la plataforma opera con un algoritmo de puntuación que permite a los usuarios evaluar el desempeño de otros usuarios. Esto ayuda a garantizar que los intercambios se realicen de manera justa y transparente.
 
 # RESPALDO DE YHWH CORE
 ## ¿CUÁL ES EL RESPALDO DE YHWH CORE?
@@ -146,7 +221,7 @@ https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
 
 https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de-agua-viva-los-7-mares-del-cielo
 
-## YHWHcore (MAN)
+## YHWHcore v1.0.0.0-g 64 bit (main)
 
 *YHWH.qt
 
@@ -160,10 +235,10 @@ Detalles del proyecto YHWHcore https://yhwhcore7.webnode.com.ve
 
 # YHWHcore v 1.0.0.0-g 32 bit (Test)
 ## YHWHcore (MAN) 
-## ¿ Billetera YHWHcore (MAN) qt en Ubuntu Desktop 18.04 (TEST)?
-Actualiza tu máquina de Ubuntu.
-sudo apt-get update
-sudo apt-get upgrade
+## ¿ Billetera YHWHcore (MAN) qt en Ubuntu Desktop 18.04 (TESTnet)?
+## Actualiza tu máquina de Ubuntu.
+    sudo apt-get update
+    sudo apt-get upgrade
 
 ## Instale las dependencias requeridas.
      sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev
@@ -673,7 +748,7 @@ CONTRATO INTELIGENTE
      //Estado Comunal ABYA YALA.
 
 ## CONTRATO ABI
-   [{"constant":true,"inputs":[],"name":"name","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"name":"approve","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"fundsWallet","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFrom","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"decimals","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"version","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"unitsOneEthCanBuy","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"},{"name":"_extraData","type":"bytes"}],"name":"approveAndCall","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_spender","type":"address"}],"name":"allowance","outputs":[{"name":"remaining","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"inputs":[],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"payable":true,"stateMutability":"payable","type":"fallback"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_from","type":"address"},{"indexed":true,"name":"_to","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Transfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_owner","type":"address"},{"indexed":true,"name":"_spender","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Approval","type":"event"}]
+    [{"constant":true,"inputs":[],"name":"name","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"name":"approve","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"fundsWallet","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFrom","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"decimals","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"version","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"unitsOneEthCanBuy","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"},{"name":"_extraData","type":"bytes"}],"name":"approveAndCall","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_spender","type":"address"}],"name":"allowance","outputs":[{"name":"remaining","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"inputs":[],"payable":false,"stateMutability":"nonpayable","type":"constructor"},{"payable":true,"stateMutability":"payable","type":"fallback"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_from","type":"address"},{"indexed":true,"name":"_to","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Transfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_owner","type":"address"},{"indexed":true,"name":"_spender","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Approval","type":"event"}]
 
 ## BYTECODE 
 
@@ -686,20 +761,20 @@ Medios de entrada de INFO.
 ## YHWHcore I  
 Windows. Sistema operativo, programa de software que admite funciones para la administración de archivos y la ejecución de aplicaciones.
 
-App Inventor. Se basa en un servicio web que permitirá almacenar trabajo y  ayuda a realizar un seguimiento de los proyectos. Es un entorno de desarrollo de software actualmente mantenido por el Instituto de Tecnología de Massachusetts. Aplicaciones destinadas al sistema operativo Android.
+*App Inventor. Se basa en un servicio web que permitirá almacenar trabajo y  ayuda a realizar un seguimiento de los proyectos. Es un entorno de desarrollo de software actualmente mantenido por el Instituto de Tecnología de Massachusetts. Aplicaciones destinadas al sistema operativo Android.
 
-Adobe Photoshop. Es un editor de fotografías desarrollado por Adobe Systems  Incorporated. Usado principalmente para el retoque de fotografías y gráficos, su nombre en español significa "taller de fotos".
+*Adobe Photoshop. Es un editor de fotografías desarrollado por Adobe Systems  Incorporated. Usado principalmente para el retoque de fotografías y gráficos, su nombre en español significa "taller de fotos".
 
-Adobe Audition. Es una aplicación en forma de estudio de sonido destinado a la edición de audio digital de Adobe Systems Incorporated que permite tanto un entorno de edición mezclado de ondas multipista.
+*Adobe Audition. Es una aplicación en forma de estudio de sonido destinado a la edición de audio digital de Adobe Systems Incorporated que permite tanto un entorno de edición mezclado de ondas multipista.
 
-SAM Broadcaster. Es una aplicación de transmission de radio por Internet de Spacial. El nombre "SAM" es un acrónimo de Streaming Audio Manager, que describe la funcionalidad del software. El software presenta funcionalidades para ejecutar una estación de radio por Internet desde una sola computadora.                                                                    
-
-GitHub Desktop. (Alpha y Omega).
+*SAM Broadcaster. Es una aplicación de transmission de radio por Internet de Spacial. El nombre "SAM" es un acrónimo de Streaming Audio Manager, que describe la funcionalidad del software. El software presenta funcionalidades para ejecutar una estación de radio por Internet desde una sola computadora.                                                                    
+*GitHub Desktop. (Alpha y Omega).
 MAN6666XIIIEMFAL7MC
 
 ## YHWHcore Pi
-Raspbian: Debían 11. Sistema operativo de código abierto GNU/Linux basado en Debian. 
-NAS: Sistema operativo  IoT, de almacenamiento para acceder a archivos específicos desde la red.                                                              
+*Raspbian: Debían 11. Sistema operativo de código abierto GNU/Linux basado en Debian. 
+
+*NAS: Sistema operativo  IoT, de almacenamiento para acceder a archivos específicos desde la red.                                                              
 
 # Bot en Telegram                                                                                                                              
 
@@ -784,52 +859,52 @@ https://t.me/BotFather
 Manybot
 https://t.me/Manybot
 
-## BOT Intergrados.  
-### /BotYHWH
+## BOT Telegram Intergrados.  
+## BotYHWH
 https://t.me/MAN100010000001000000000_bot
 
-### /S.I.E.C.bot 
+## S.I.E.C.bot 
 https://t.me/Deus_machine_bot
 
-### /YULIBOT
+## YULIBOT
 https://t.me/Norelbis_bot
 
-### /BCLAP_bot
+## BCLAP_bot
 https://t.me/BCLAP_bot
 
-### /REGION CENTRAL
+## REGION CENTRAL
 https://t.me/REGION_central_bot
 
-### /REGION COSTERA
+## REGION COSTERA
 https://t.me/REGION_costera_bot
 
-### /REGION LLANERA
+## REGION LLANERA
 https://t.me/REGION_llanera_bot
                                                                                                                                                                                                                                                         
-## CANALES
+## CANALES Telegram
 
-### /REGIONES
+## REGIONES
 https://t.me/GqHXRlanlY04MTVh
 
-### /REGION ANDINA
+## REGION ANDINA
 https://t.me/+2CVpcFBzGuA2YTEx
 
-### /REGION JIWASA
+## REGION JIWASA
 https://t.me/+2xHKUaRspGw2Mzg5
 
-### /REGION ORIENTAL
+## REGION ORIENTAL
 https://t.me/+qe1KraY9ojs0Yjdh
 
-### /REGION OCCIDENTAL
+## REGION OCCIDENTAL
 https://t.me/+dA6E7H8cypYyYmJh
 
-### /REGION LLANERA
+## REGION LLANERA
 https://t.me/+W-pMQ2VJDWYyNGJh
 
-### /REGION COSTERA
+## REGION COSTERA
 https://t.me/+BxhKiy9jNm9jNThh
 
-### /REGION CENTRAL
+## REGION CENTRAL
 https://t.me/+oM0eWqnTVVIIZGYx
                                                                       
 ## PAGINAS WEB                                                                     
@@ -838,7 +913,7 @@ https://www.YHWHcore.webnode.page
                                                         
 https://www.YHWHcore7.webnode.page  
                                                            
-## APP 
+## APP MOVILES.
                                                     
 | ECAY.apk
 
@@ -925,3 +1000,6 @@ Tiempo de emisión :2019-09-25 16:59:21 (UTC)
 decimales : 6
 
 Enlaces :https://tronscan.org/#/token20/THiuYJ1ecbh1LHvnyUrDKfkoUvaQatSft1
+
+## Conclusión.
+YHWHcore es un Sistema de Intercambio Económico Comunal que utiliza una criptomoneda descentralizada y segura para facilitar el comercio y el intercambio entre las comunidades. La plataforma ofrece características únicas que fomentan la construcción de una comunidad activa y comprometida que puede prosperar juntos. Con su modelo operativo innovador sistema, YHWHcore es una plataforma prometedora para el futuro del comercio dentro de las comunidades Organizadas del ESTADO COMUNAL ABYA YALA.
