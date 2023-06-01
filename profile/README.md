@@ -856,51 +856,51 @@ Manybot
 https://t.me/Manybot
 
 ## BOT Telegram Asociados.
-## BotYHWH
+BotYHWH
 https://t.me/MAN100010000001000000000_bot
 
-## S.I.E.C.bot 
+S.I.E.C.bot 
 https://t.me/Deus_machine_bot
 
-## YULIBOT
+YULIBOT
 https://t.me/Norelbis_bot
 
-## BCLAP_bot
+BCLAP_bot
 https://t.me/BCLAP_bot
 
-## Región Central
+Región Central
 https://t.me/REGION_central_bot
 
-## Región Costera
+Región Costera
 https://t.me/REGION_costera_bot
 
-## Región Llanera
+Región Llanera
 https://t.me/REGION_llanera_bot
                                                                                                                                                                                                                                                         
 ## CANALES Telegram
 
-## Regiones
+Regiones
 https://t.me/GqHXRlanlY04MTVh
 
-## Región Andina
+Región Andina
 https://t.me/+2CVpcFBzGuA2YTEx
 
-## Región Jiwasa
+Región Jiwasa
 https://t.me/+2xHKUaRspGw2Mzg5
 
-## Región Oriental
+Región Oriental
 https://t.me/+qe1KraY9ojs0Yjdh
 
-## Región Occidental
+Región Occidental
 https://t.me/+dA6E7H8cypYyYmJh
 
-## Región Llanera
+Región Llanera
 https://t.me/+W-pMQ2VJDWYyNGJh
 
-## Región Costera
+Región Costera
 https://t.me/+BxhKiy9jNm9jNThh
 
-## Región Central
+Región Central
 https://t.me/+oM0eWqnTVVIIZGYx
                                                                       
 ## PAGINAS WEB                                                                     
@@ -912,17 +912,14 @@ https://www.YHWHcore7.webnode.page
 ## APP MOVILES. 
 https://www.enronapp.webnode.com.ve/  
 
-| ECAY.apk
-
+ECAY.apk
 (https://drive.google.com/file/d/1PTmIs9J7fZbr9DD77Ysacpj0q8daNlFm/view)
 
-| chatCLAP.apk 
-
+chatCLAP.apk 
 (https://drive.google.com/file/d/1elSslDOf6mQCwiWoyImXyQHE0FKtHOAN/view)
 
 ## APP WEB.
-| YULIBOT-app
-
+YULIBOT-app
 (https://enronapp.webnode.com.ve/yulibot-app/)                                                                       
 
 ## Enlaces Redes Sociales  
