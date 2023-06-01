@@ -845,9 +845,7 @@ Ahora la función de bucle de mensajes está definida y hecha para ejecutarse co
      while 1:
     time.sleep(10)                                                             
 
-
-## Bot Telegram Asociados.
-
+## BOT Telegram Intergrados.  
 Seedit
 https://t.me/GoSeeditBot
 
@@ -857,7 +855,7 @@ https://t.me/BotFather
 Manybot
 https://t.me/Manybot
 
-## BOT Telegram Intergrados.  
+## BOT Telegram Asociados.
 ## BotYHWH
 https://t.me/MAN100010000001000000000_bot
 
@@ -870,39 +868,39 @@ https://t.me/Norelbis_bot
 ## BCLAP_bot
 https://t.me/BCLAP_bot
 
-## REGION CENTRAL
+## Región Central
 https://t.me/REGION_central_bot
 
-## REGION COSTERA
+## Región Costera
 https://t.me/REGION_costera_bot
 
-## REGION LLANERA
+## Región Llanera
 https://t.me/REGION_llanera_bot
                                                                                                                                                                                                                                                         
 ## CANALES Telegram
 
-## REGIONES
+## Regiones
 https://t.me/GqHXRlanlY04MTVh
 
-## REGION ANDINA
+## Región Andina
 https://t.me/+2CVpcFBzGuA2YTEx
 
-## REGION JIWASA
+## Región Jiwasa
 https://t.me/+2xHKUaRspGw2Mzg5
 
-## REGION ORIENTAL
+## Región Oriental
 https://t.me/+qe1KraY9ojs0Yjdh
 
-## REGION OCCIDENTAL
+## Región Occidental
 https://t.me/+dA6E7H8cypYyYmJh
 
-## REGION LLANERA
+## Región Llanera
 https://t.me/+W-pMQ2VJDWYyNGJh
 
-## REGION COSTERA
+## Región Costera
 https://t.me/+BxhKiy9jNm9jNThh
 
-## REGION CENTRAL
+## Región Central
 https://t.me/+oM0eWqnTVVIIZGYx
                                                                       
 ## PAGINAS WEB                                                                     
@@ -911,13 +909,17 @@ https://www.YHWHcore.webnode.page
                                                         
 https://www.YHWHcore7.webnode.page  
                                                            
-## APP MOVILES.
-                                                    
+## APP MOVILES.                                                
 | ECAY.apk
 
 | chatCLAP.apk 
 
-https://www.enronapp.webnode.com.ve/                                                                        
+https://www.enronapp.webnode.com.ve/   
+
+## APP MOVILES.
+| APP YULIBOT WEB
+
+https://a.picoapps.xyz/Tempora-account/                                                                        
 
 ## Enlaces Redes Sociales  
 
@@ -927,7 +929,7 @@ https://www.enronapp.webnode.com.ve/
 
 *Twitter: https://twitter.com/HcoinYhw                                                         
 
-## nodo web 
+## NODO Web 
 
 Detalles del proyecto enroncorporationweb https://enroncorporationweb.webnode.es
 
