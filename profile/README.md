@@ -919,7 +919,7 @@ https://www.enronapp.webnode.com.ve/
 ## APP WEB.
 | YULIBOT-app
 
-https://a.picoapps.xyz/tempora-account/                                                                        
+(https://enronapp.webnode.com.ve/yulibot-app/)                                                                       
 
 ## Enlaces Redes Sociales  
 
