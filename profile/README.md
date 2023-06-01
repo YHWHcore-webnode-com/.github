@@ -905,8 +905,10 @@ https://t.me/+oM0eWqnTVVIIZGYx
                                                                       
 ## PAGINAS WEB                                                                     
 
+YHWHcore INFO
 https://www.YHWHcore.webnode.page    
-                                                        
+
+YHWHcore S.I.E.C.
 https://www.YHWHcore7.webnode.page  
                                                            
 ## APP MOVILES. 
