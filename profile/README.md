@@ -122,7 +122,7 @@ La plataforma YHWHcore ofrece algunas características únicas que la diferencia
 
 ## Modelo operativo de YHWHcore
 
-El modelo operativo de YHWHcore se basa en el intercambio de bienes y servicios mediante el uso de la criptomoneda YHWHcoin. Los usuarios se registran en la plataforma y reciben una billetera digital en la que pueden almacenar su YHWHcoin. A partir de ahí, los usuarios pueden comprar y vender bienes y servicios directamente entre sí. La plataforma también ofrece una función de oferta y demanda, donde los usuarios pueden publicar sus necesidades y ofertas para que otros usuarios las vean y puedan responder.
+El modelo operativo de YHWHcore se basa en el intercambio de bienes y servicios mediante el uso de la criptomoneda MAN y YHWHcoin. Los usuarios se registran en la plataforma y podra crear una billetera digital en la que pueden almacenar sus MAN y YHWHcoin. A partir de ahí, los usuarios pueden comprar y vender bienes y servicios directamente entre sí. La plataforma también ofrece una función de oferta y demanda, donde los usuarios pueden publicar sus necesidades y ofertas para que otros usuarios las vean y puedan responder.
 
 Además, la plataforma opera con un algoritmo de puntuación que permite a los usuarios evaluar el desempeño de otros usuarios. Esto ayuda a garantizar que los intercambios se realicen de manera justa y transparente.
 
