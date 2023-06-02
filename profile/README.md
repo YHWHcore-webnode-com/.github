@@ -788,27 +788,27 @@ El paquete de Google Apps se compone de aplicaciones de colaboración y producti
 ## CORREOS DE ACCESO.
 * SECRETARIA DE LA MAGISTRATURA DE ECONOMÍA COMUNAL 
 Email: secretaria.economia.comunal@gmail.com 
-
+____________________________
 * ALPHA Y OMEGA MARNORE 
 CORREO: alphaomegamarnore@gmail.com 
-
+____________________________
 * ENRON CORPORACIÓN WEB 
 Email: enron.coporation.web.2023@gmail.com 
-
+____________________________
 * SALIDA DE DOCUMENTOS 
 Email: salidadedocumentos@gmail.com 
-
+____________________________
 * YHWHCORE YHWHCOIN
 Email: yhwhcore.webnode@gmail.com
- 
+____________________________ 
 * COMUNA LA PAZ 
 Email: comunalapazz@gmail.com 
 Microsoft 
 Dropbox 
-
+____________________________
 * CONSEJO SOCIALISTA LA VIRTUD 
 Email: consejosocialistalavirtud@gmail.com 
-
+____________________________
 * ESTADO COMUNAL ABYA YALA 2023
 Email: estado.comunal.abya.yala.2023@gmail.com 
 -Microsoft 
@@ -820,52 +820,27 @@ Email: bancamulticentricaplurinaciona@gmail.com
 ## EMAIL DE LAS REGIONES ECONOMICAS ECAY:
 * REGION ECONÓMICA  ANDINA 
 Email: regióneconomicaandina@gmail.com 
-
--correo de recuperación- 
-Email: salidadedocumentos@gmail.com 
-Email: bancamulticentricaplurinaciona@gmail.com 
 ____________________________
 * REGION ECONÓMICA CENTRAL 
 CORREO: regioneconomicacentral@gmail.com
-
--correo de recuperación- 
-salidadedocumentos@gmail.com 
 _____________________________
 * REGION ECONOMICA COSTERA 
 Email: regioneconomicacostera@gmail.com 
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 _____________________________
 * REGION ECONOMICA LLANERA 
 Email: regioneconomicallanera@gmail.com 
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 _____________________________
 * REGION ECONÓMICA OCCIDENTAL 
 Email: regioneconomicaoccidental.5.2023@gmail.com
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 _____________________________
 * REGION ECONÓMICA ORIENTAL 6
 Email: regióneconomicaoriental@gmail.com 
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 ______________________________
 * REGIÓN ECONÓMICA ESPECIAL JIWASA 7
 Email: región.especial.jiwasa.7.2023@gmail.com 
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 _______________________________
 * OPERADOR DE SISTEMA
 Email: operador.de.sistema.2023@gmail.com 
-
--correo de recuperación- 
-bancamulticentricaplurinaciona@gmail.com 
 
 # Bot en Telegram                                                                                                                              
 
