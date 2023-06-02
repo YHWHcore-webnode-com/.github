@@ -813,7 +813,7 @@ ____________________________
 Email: estado.comunal.abya.yala.2023@gmail.com 
 -Microsoft 
 -Dropbox 
-
+____________________________
 * BANCA MULTICENTRICA PLURINACIONAL ABYA YALA 
 Email: bancamulticentricaplurinaciona@gmail.com 
 
