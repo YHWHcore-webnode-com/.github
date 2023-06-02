@@ -378,7 +378,14 @@ Actualizar  máquina de Ubuntu.
      mkdir source_code
      cd source_code
 
- # BILLETERA YHWHcore  RED TRON
+## Github Proyecto YHWHcore Linea de Tiempo
+Repositorios de Ejemplo, Utilizados para la Creacion de la Plataforma YHWHcore. (Bifurcaion, integracion, Clonacion de repositorios, Colaboracion e Implementacion de Codigos y aplicaciones tecnologicas).
+
+https://github.com/mang6666
+
+https://github.com/YHWHcore 
+
+ # BILLETERA YHWHcore  CADENA DE BLOQUES TRON.
 ## YHWHcoin TRC10
 Un Cripto activo soberano respaldado y emitido por El Banco de Economía Comunal de la Comuna Socialista LA PAZ a través del ESTADO COMUNAL ABYA YALA, sobre una plataforma de cadena de bloques Cripto activo de recompensa se puede adquirir por medio de canje de YHWH Coin TRC10 adquirido en la Preventa, AIRDROP CHAT, Telegram, promociones, recompensas, sorteos, trueque, canje, compra en plataformas digitales Compra en la Oferta Inicial abierta a la participación del público en general. En el mercado secundario una vez terminado el proceso de Oferta Inicial.
 
