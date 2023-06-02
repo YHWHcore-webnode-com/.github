@@ -1,4 +1,4 @@
-# HOLA 👋  MULTIVERSAL
+# HOLA MULTIVERSAL. 👋
 
 ## MAGISTRATURA DE ECONOMÍA COMUNAL
 DEL ESTADO COMUNAL ABYA YALA
@@ -18,12 +18,12 @@ C°- ASAMBLEA DE CIUDADANOS Y CIUDADANAS PERMANENTE, ORIGINARIA, CONSTITUYENTE, 
 
 D°- Respuesta de la QUERELLA Emitida por: MARCO ANTONIO NIEVES GARCIA C.I.V-17.004.376. SENTENCIA DEFINITIVAMENTE FIRME. Por AVENIA de la ASAMBLEA NACIONAL CONSTITUYENTE, PERMANENTE DE CIUDADANOS Y CIUDADANAS PERMANENTE, ORIGINARIA, CONSTITUYENTE, ORGANICA DEL ESTADO COMUNAL ABYA YALA.
 
-# LIBRO BLANCO  
+#  :book: LIBRO BLANCO  
 ## Introducción.
 
 El objetivo de este libro blanco es presentar la plataforma YHWHcore, un innovador Sistema de Intercambio Económico Comunal, que se ha desarrollado para transformar la forma en que se lleva a cabo el intercambio económico dentro de las comunidades organizaddas del Estado Comunal ABYA YALA. Este documento proporcionará información detallada sobre la plataforma YHWHcore, sus características y su modelo operativo.
 
-## PLATAFORMA YHWHcore.
+## :atom: PLATAFORMA YHWHcore.
 Quien suscribe, MARCO ANTONIO NIEVES GARCIA  CI: 17.004.376, en mi carácter de  MAGISTRADO del CONSEJO DE ECONOMIA COMUNAL DEL ESTADO COMUNAL ABYA YALA. Constituyentes del CONCEJO DEL PODER POPULAR ECOLÓGICO DE DESARROLLO ETNO ENDÓGENO EJE SOCIALISTA RIF: J29918558-2 como única instancia de participación registrada en tiempo hábil de hecho de derecho, y de justicia, en nuestro carácter de pueblo originario en concordancia con los Artículos: 5,70, 126 de la constitución de la República Bolivariana de Venezuela, y de la Ley Orgánica del Poder Popular, ARTÍCULOS: 1 y 2 al encontrarnos adecuados en un consejo de base legalmente constituido, en el territorio nacional, protocolizado a través de una instancia del Poder Popular, para sus efectos, siendo el CONSEJO SOBERANO del Poder Popular Ecológico de Desarrollo Endógeno Eje Socialista, SISTEMA DE AGREGACIÓN COMUNAL CAPITAL BARINAS, como única instancia legal de participación del PODER POPULAR constituidas en la Nación, en cumplimiento con la disposición final primera de la Ley Orgánica del Poder Popular. De acuerdo a lo establecido en los artículos: 2, 5, 7, 70, 118, 126, 184, 308 de la CONSTITUCIÓN DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA artículo: 1, 2, 4, 7 y 8, Numerales: 1°, 2°, 3°, 4°, 5°,  6°, 7°, 8°, 9°, 10°, 11°, 12°, 13°, 14°. Artículos: 17, 24, 27, 28, 29, 30, 31 de la Ley Orgánica del Poder Popular, Gaceta Oficial N° 6.011, de 21 de diciembre de 2010 y la ley Orgánica del Sistema Económico Comunal en sus artículos: 36, 37 y 39, numerales 1°, 2°, 3° Gaceta Oficial N° 6.011, de 21 de diciembre de 2010. De conformidad con lo establecido en el PLAN DE LA PATRIA 2013 -2019, específicamente lo previsto en el 2° GRAN OBJETIVO HISTÓRICO: ” Continuar construyendo el socialismo del siglo XXI en Venezuela, como alternativa al modelo salvaje del capitalismo y con ello asegurar la “mayor suma de seguridad social, mayor suma de estabilidad política y la mayor  suma de  felicidad”, para nuestro pueblo”, Haciendo uso de lo establecido en la Constitución de la República Bolivariana de Venezuela, en su ARTÍCULO 5:  “La soberanía reside intransferiblemente en el pueblo, quien la ejerce directamente en la forma prevista en esta Constitución y en la ley, e indirectamente, mediante el sufragio, por los órganos que ejercen el Poder Público. Los órganos del Estado emanan de la soberanía popular y a ella están sometidos.”, ARTÍCULO 88:” El Estado garantizará la igualdad y equidad de hombres y mujeres en el ejercicio del derecho al trabajo. El Estado reconocerá el trabajo del hogar como actividad económica que crea valor agregado y produce riqueza y bienestar social. Las amas de casa tienen derecho a la seguridad  social  de  conformidad  con  la ley. ARTÍCULO 118: Se reconoce el derecho de los trabajadores y trabajadoras, así como de la comunidad para desarrollar asociaciones de carácter social y participativo, como las cooperativas, cajas de ahorro, mutuales y otras formas asociativas. Estas asociaciones podrán desarrollar cualquier tipo de actividad económica, de conformidad con la ley. La ley reconocerá las especificidades de estas organizaciones, en especial, las relativas al acto cooperativo, al trabajo asociado y su carácter generador de beneficios colectivos. EL estado promoverá y protegerá estas asociaciones destinadas a mejorar  la economía popular y alternativa. ARTÍCULO 308: El Estado protegerá y promoverá la pequeña y mediana industria, las cooperativas, las cajas de ahorro, así como también la empresa familiar, la microempresa y cualquier otra forma de asociación comunitaria para el trabajo, el ahorro y el consumo, bajo régimen de propiedad colectiva, con el fin de fortalecer el desarrollo económico del país, sustentándolo en la iniciativa popular. Se asegurará la capacitación, la asistencia técnica y el financiamiento oportuno. ARTÍCULO 153: La República promoverá y favorecerá la integración latinoamericana y caribeña, en aras de avanzar hacia la creación de una comunidad de naciones, defendiendo los intereses económicos, sociales, culturales, políticos y ambientales de la región. La República podrá suscribir tratados internacionales que conjuguen y coordinen esfuerzos para promover el desarrollo común de nuestras naciones, y que garanticen el bienestar de los pueblos y la seguridad colectiva de sus habitantes. Para estos fines, la República podrá atribuir a organizaciones supranacionales, mediante tratados, el ejercicio de las competencias necesarias para llevar a cabo estos procesos de integración. Dentro de las políticas de integración y unión con Latinoamérica y el Caribe, la República privilegiará relaciones con Iberoamérica, procurando sea una política común de toda nuestra América Latina. Las normas que se adopten en el marco de los acuerdos de integración serán consideradas parte integrante del ordenamiento legal vigente y de aplicación directa y preferente a la legislación interna. ARTÍCULO 184: La ley creará mecanismos abiertos y flexibles para que los Estados y los Municipios descentralicen y transfieran a las comunidades y grupos vecinales organizados los servicios que éstos gestionen previa demostración de su capacidad para prestarlos, promoviendo: 1. La transferencia de servicios en materia de salud, educación, vivienda, deporte, cultura, programas sociales, ambiente, mantenimiento de áreas industriales, mantenimiento y conservación de áreas urbanas, prevención y protección vecinal, construcción de obras y prestación de servicios públicos. A tal efecto, podrán establecer convenios cuyos contenidos estarán orientados por los principios de interdependencia, coordinación, cooperación y corresponsabilidad. 2. La participación de las comunidades y de ciudadanos o ciudadanas, a través de las asociaciones vecinales y organizaciones no gubernamentales, en la formulación de propuestas de inversión ante las autoridades estadales y municipales encargadas de la elaboración de los respectivos planes de inversión, así como en la ejecución, evaluación y control de obras, programas sociales y servicios públicos en su jurisdicción. 3. La participación en los procesos económicos estimulando las expresiones de la economía social, tales como cooperativas, cajas de ahorro, mutuales y  otras  formas asociativas. 4.  La participación de los trabajadores y trabajadoras y comunidades en la gestión de las empresas públicas mediante mecanismos autogestionarios y cogestionaros. 5. La creación de organizaciones, cooperativas y empresas comunales de servicios, como fuentes generadoras de empleo y de bienestar social, propendiendo a su permanencia mediante el diseño de políticas en las cuales aquellas tengan participación. 6. La creación de nuevos sujetos de descentralización a nivel de las parroquias, las comunidades, los barrios y las vecindades a los fines de garantizar el principio de la corresponsabilidad en la gestión pública de los gobiernos locales y estadales y desarrollar procesos autogestionarios y cogestionaros en la administración y control de los servicios públicos estadales y municipales. 7. La participación de las comunidades en actividades de acercamiento a los establecimientos penales y de vinculación de éstos con la población. Haciendo uso de lo establecido en la LEY ORGÁNICA DEL PODER POPULAR, en específico, lo previsto en el ARTÍCULO 3, que establece: ARTÍCULO 3: El Poder Popular se fundamenta en el principio de soberanía y el sentido de progresividad de los derechos contemplados en la Constitución de la República, cuyo ejercicio y desarrollo está determinado por los niveles de conciencia política y organización del pueblo. EL ARTICULO 4, que establece: ARTICULO 4: El Poder Popular tiene por finalidad garantizar la vida y el bienestar social del pueblo, mediante la creación de mecanismos para su desarrollo social y espiritual, procurando la igualdad de condiciones para que todos y todas desarrollen libremente su personalidad, dirijan su destino, disfruten los derechos humanos y alcancen la suprema felicidad social; sin discriminaciones por motivos de origen étnico, religioso, condición social, sexo, orientación sexual, identidad y expresión de género, idioma, opinión política, nacionalidad u origen, edad, posición económica, condición de discapacidad o cualquier otra circunstancia personal, jurídica o social, que tenga por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos humanos y garantías constitucionales. ARTÍCULO 8 NUMERAL 1, que es del tenor siguiente: ARTICULO 8: A los efectos de la presente Ley se entiende por: 1.- Asamblea de ciudadanos y ciudadanas: Máxima instancia de participación y decisión de la comunidad organizada, conformada por la integración de personas con cualidad jurídica, según la ley que regule la forma de participación, para el ejercicio directo del poder y protagonismo popular, cuyas decisiones son de carácter vinculante para la comunidad, las distintas formas de organización, el gobierno comunal y las instancias del Poder Público, de acuerdo a lo que establezcan las leyes que desarrollen la constitución, organización y funcionamiento de los autogobiernos comunitarios, comunales y los sistemas de agregación que de éstos surjan. ARTICULO 8 Numeral 5, que es del tenor siguiente: ARTÍCULO 8: A los efectos de la presente ley se entiende por Comunidad organizada: Constituida por las expresiones organizativas populares, consejos de trabajadores y trabajadoras, de campesinos y campesinas, de pescadores y pescadoras y cualquier otra organización social de base, articulada a una instancia del Poder  Popular debidamente  reconocida  por  la  ley  y  registrada en el Ministerio del 
 Poder Popular con competencia en materia de participación ciudadana. Del ARTÍCULO 11 numeral 1 que es del tenor siguiente: ARTICULO 11: Las organizaciones y expresiones organizativas del Poder Popular tienen como fines: 1. Consolidar la democracia participativa y protagónica, en función de la insurgencia del Poder Popular como hecho histórico para la construcción de la sociedad socialista, democrática, de derecho y de justicia. Del ARTÍCULO 23: Los órganos, entes e instancias del Poder Público promoverán, apoyarán y acompañarán las iniciativas populares para la constitución, desarrollo y consolidación de las diversas formas organizativas y de autogobierno del pueblo. Del ARTÍCULO 24: Todos los órganos, entes e instancias del Poder Público guiarán sus actuaciones por el principio de gobernar obedeciendo, en relación con los mandatos de los ciudadanos, ciudadanas y de las organizaciones del Poder Popular, de acuerdo a lo establecido en la Constitución de la República y las leyes. Su DISPOCISIÓN FINAL PRIMERA: Que establece:” PRIMERA: Las instancias y organizaciones del Poder Popular preexistentes a la entrada en vigencia de la presente ley, adecuarán su organización y funcionamiento a las disposiciones de la misma, en un lapso de ciento ochenta días contados a partir de su publicación de la Gaceta Oficial de la República Bolivariana de Venezuela. Su Disposición  Final CUARTA: Que establece “CUARTA: Quedan derogadas todas aquellas disposiciones legales que coliden con las disposiciones de la presente ley. Asimismo, asumiendo los cinco (5) Objetivos Históricos planteados  por el Comandante Supremo de la Revolución  Bolivariana HUGO RAFAEL CHAVEZ FRIAS  en nuestra propuesta de gobierno patrio para la gestión bolivariana y socialista (2013-2019); en EL PLAN DE LA PATRIA,  desarrollándolos y fortaleciéndolos  en nuestra realidad nacional e internacional, a saber: 
 
@@ -38,25 +38,25 @@ ciudad,  así como demás sectores sociales del pueblo,  es condición indispens
 
 5.-preservar la vida en el planeta y salvar a la especie humana. Se traduce en la necesidad  de construir un modelo económico productivo eco-socialista, basado en una relación armónica entre el hombre y la naturaleza, que garantice el uso  y aprovechamiento racional y óptimo de los  recursos naturales, respetando los procesos y siclos de la naturaleza. Unificados de hecho, de derecho y de justicia  como se establece en este instrumento jurídico. En sede  del Consejo  Socialista De Economía Comunal (Banco De La Comuna)  De La Comuna Socialista La Paz. 
 
-CONSIDERANDO:
+## CONSIDERANDO:
 
-RESOLUCIÓN CLAP 008: se autoriza el financiamiento en su totalidad del sistema Económico Comunal  y de la Cripto moneda del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 y de la cripto moneda del Estado Comunal ABYA YALA como alternativa a la moneda de curso legal en el territorio de la República estructurada por la Denominación y Leyenda vigente el Sello Oficial de la República y la figura de la CHAKANA y el Sol junto al perfil de Simón Bolívar contentiva de un Gramo de oro de 18 quilates, así como la consolidación de la moneda digital en la Banca electrónica Mundial, así mismo la creación del dinero físico: moneda, billetes, vales, valores oficiales entre otros y  la ejecución y puesta en marcha en toda su totalidad del plan de la patria 2013-2019 en lo nacional y externacional. 
+:heavy_check_mark: RESOLUCIÓN CLAP 008: se autoriza el financiamiento en su totalidad del sistema Económico Comunal  y de la Cripto moneda del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 y de la cripto moneda del Estado Comunal ABYA YALA como alternativa a la moneda de curso legal en el territorio de la República estructurada por la Denominación y Leyenda vigente el Sello Oficial de la República y la figura de la CHAKANA y el Sol junto al perfil de Simón Bolívar contentiva de un Gramo de oro de 18 quilates, así como la consolidación de la moneda digital en la Banca electrónica Mundial, así mismo la creación del dinero físico: moneda, billetes, vales, valores oficiales entre otros y  la ejecución y puesta en marcha en toda su totalidad del plan de la patria 2013-2019 en lo nacional y externacional. 
 https://comuna-la-paz.webnode.com.ve/l/copia-de-resolucion-clap001/
 
-RESOLUCIÓN CLAP 015: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  activación de  la Plataforma bancaria digital y su sistema de CRIPTO ACTIVOS del Consejo de Economía Comunal (Banco de la Comuna) COMUNA  SOCIALISTA LA PAZ y puesta en marcha en el 100% de toda su operatividad y comience su funcionamiento para la ejecución de todas las transacciones  y operaciones financieras en el territorio nacional e internacional.                  
+:heavy_check_mark: RESOLUCIÓN CLAP 015: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  activación de  la Plataforma bancaria digital y su sistema de CRIPTO ACTIVOS del Consejo de Economía Comunal (Banco de la Comuna) COMUNA  SOCIALISTA LA PAZ y puesta en marcha en el 100% de toda su operatividad y comience su funcionamiento para la ejecución de todas las transacciones  y operaciones financieras en el territorio nacional e internacional.                  
 https://comuna-la-paz.webnode.com.ve/l/resolucion-clap-015/
 
-RESOLUCIÓN CLAP 016: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  Propuestas de PAZ. del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 
+:heavy_check_mark: RESOLUCIÓN CLAP 016: Aprobación del plan  Comunal de Desarrollo de la Comuna socialista la Paz,  Propuestas de PAZ. del Consejo de Economía Comunal (BANCO DE LA COMUNA) de la COMUNA SOCIALISTA LA PAZ Rif: J410244623 
 https://lavirtud9.webnode.es/blog-de-evidencias/
 
-# CONTRATOS PUBLICADOS:
+# :bookmark_tabs: CONTRATOS PUBLICADOS:
 ## CUENTA DEL EMISOR
 TRPPuWmcHQw3hLuzt9azNuNi2b2LcUmCXU
 https://tronscan.org/#/address/TRPPuWmcHQw3hLuzt9azNuNi2b2LcUmCXU 
 
-# Sistema de Intercambio Economico Comunal S.I.E.C.
+# :satellite: Sistema de Intercambio Economico Comunal S.I.E.C.
 
-## YHWHcore v 1.0.0.0-g 64 bit (main)
+## :memo: Descripcion General YHWHcore v 1.0.0.0-g 64 bit (main)
 
 Compilación del sistema operativo. Ubuntu 
 
@@ -104,11 +104,11 @@ marca de tiempo. (el tiempo catorce de febrero de 2019 es propicio para el Amor)
 
 https://yhwhcore7.webnode.com.ve/
 
-## ¿Qué es YHWHcore?
+## :diamond_shape_with_a_dot_inside: ¿Qué es YHWHcore?
 
 YHWHcore es un Sistema de Intercambio Económico Comunal que opera como una plataforma digital diseñada para facilitar el comercio y el intercambio entre las comunidades. La plataforma permite a los usuarios intercambiar bienes y servicios mediante el uso de una moneda digital basada en una criptomoneda conocida como (MAN y YHWHcoin).
 
-## Características de YHWHcore
+## :diamond_shape_with_a_dot_inside: Características de YHWHcore
 
 La plataforma YHWHcore ofrece algunas características únicas que la diferencian de otras plataformas de intercambio económico existentes. Estas características incluyen:
 
@@ -120,14 +120,14 @@ La plataforma YHWHcore ofrece algunas características únicas que la diferencia
 
 4. Comunidad: La plataforma YHWHcore fomenta la construcción de una comunidad activa y comprometida que pueda crecer y prosperar juntos.
 
-## Modelo operativo de YHWHcore
+## :diamond_shape_with_a_dot_inside: Modelo operativo de YHWHcore
 
 El modelo operativo de YHWHcore se basa en el intercambio de bienes y servicios mediante el uso de la criptomoneda MAN y YHWHcoin. Los usuarios se registran en la plataforma y podra crear una billetera digital en la que pueden almacenar sus MAN y YHWHcoin. A partir de ahí, los usuarios pueden comprar y vender bienes y servicios directamente entre sí. La plataforma también ofrece una función de oferta y demanda, donde los usuarios pueden publicar sus necesidades y ofertas para que otros usuarios las vean y puedan responder.
 
 Además, la plataforma opera con un algoritmo de puntuación que permite a los usuarios evaluar el desempeño de otros usuarios. Esto ayuda a garantizar que los intercambios se realicen de manera justa y transparente.
 
-# RESPALDO DE YHWH CORE
-## ¿CUÁL ES EL RESPALDO DE YHWH CORE?
+#  :scroll: RESPALDO DE YHWH CORE :money_with_wings:
+## :diamond_shape_with_a_dot_inside: ¿CUÁL ES EL RESPALDO DE YHWH CORE?
 
 Consta En Resolución ES-010, donde se autoriza a la creación de un Cripto Activo, que logre la descentralización del sistema económico Comunal. Del sistema financiero de los Bancos Centrales, legalmente Registrada en los registro con funciones notariales de Obispo y Cruz Paredes del Territorio Barinas Venezuela, Estado Comunal ABYA YALA.
 
@@ -135,13 +135,13 @@ El propósito fundamental de la creación del quinto Motor de Economía Comunal,
 
 El precio del YHWH Coin estará asociado al de la cesta de comercialización de criptodivisas.  
 
-## ¿PARA QUÉ SIRVE EL YHWH COIN (YHWH)?  
+## :diamond_shape_with_a_dot_inside: ¿PARA QUÉ SIRVE EL YHWH COIN (YHWH)?  
 
 -> Como medio de intercambio: Podrá ser usado para adquirir bienes o servicios y será canjeable por dinero fiduciario y otros criptoactivos o criptomonedas a través de casas de intercambio digitales. 
 -> Como plataforma digital: Podría ejercer las funciones de una representación digital de mercancías y/o materias primas.
 -> Como instrumento de ahorro e inversión.
 
-## ¿QUÉ ES EL BLOCKCHAIN? 
+## :diamond_shape_with_a_dot_inside: ¿QUÉ ES EL BLOCKCHAIN? 
 
 La cadena de bloques (blockchain) es un libro digital incorruptible de transacciones económicas que pueden  programarse para registrar no sólo transacciones financieras sino prácticamente todo de valor.
 
@@ -166,7 +166,7 @@ por seguridad y tranquilidad del cliente, tales como: identificación, poder, ac
 
 la tecnología Blockchain tiene el potencial  de transformar nuestras interacciones, entre personas y  también entre empresas. Estas cadenas de bloques tienen  dos ingredientes principales: criptografía asimétrica y  sistemas distribuidos. Ello, permite crear archivos no editables, transferir valor y automatizar actualizaciones de los  archivos.
 
-## HISTORIA DEL BLOCKCHAIN 
+## :diamond_shape_with_a_dot_inside: HISTORIA DEL BLOCKCHAIN 
 
 La primera gran innovación en la cadena de bloques fue  el Bitcoin, un experimento de “moneda digital”. Ahora, la  capitalización de mercado de esa moneda oscila entre 10 y  20,000’000,000 de dólares, y es utilizada por millones de  personas para pagos, incluyendo un mercado de remesas  grande y creciente. 
 
@@ -180,14 +180,14 @@ TRX se acuñó originalmente en la plataforma de Ethereum, pero se trasladó a T
 
 Los usuarios que realizan transacciones con la red disfrutan de comisiones increíblemente bajas y también de varias transacciones gratuitas. TRON es un sistema operativo descentralizado de código abierto basado en blockchain con funcionalidad de contrato inteligente, principios de prueba de participación como algoritmo de consenso y una criptomoneda nativa del sistema, conocida como Tronix – TRX.
 
-## CONTRATOS INTELIGENTES
+## :diamond_shape_with_a_dot_inside: CONTRATOS INTELIGENTES
 
 Un “contrato inteligente” es un código de computadora que se ejecuta en la parte superior de una cadena  de bloque, la cual contiene un conjunto de reglas bajo las  cuales las partes de ese “contrato inteligente” acuerdan  interactuar entre sí. Por tanto, si se cumplen las reglas predefinidas, el acuerdo se aplica automáticamente. El código de  “contrato inteligente” facilita, verifica y hace cumplir la negociación o ejecución de un acuerdo o transacción. Es la  forma más simple de automatización descentralizada.
  
 “Contrato inteligente” es un término usado para  describir un código de programa de computadora que es  capaz de facilitar, ejecutar y hacer cumplir la negociación o  ejecución de un acuerdo (es decir, contrato) usando la tecnología de bloque de bloques. Todo el proceso es automatizado y puede actuar como complemento o sustituto de  los contratos legales, en donde los términos del “contrato  inteligente” se registran en un lenguaje informático, como  un conjunto de instrucciones.
 …el objetivo principal de un contrato inteligente es permitir a dos partes anónimas comerciar y hacer negocios  entre sí, por lo general a través de Internet, sin la necesidad  de un intermediario. 
 
-## ELEMENTOS Y CARACTERÍSTICAS  DE ESTOS CONTRATOS. 
+## :diamond_shape_with_a_dot_inside: ELEMENTOS Y CARACTERÍSTICAS  DE ESTOS CONTRATOS. 
 Desde una perspectiva jurídica, la mayoría de las personas involucradas con la cadena de bloques esperaría  por lo menos los siguientes tres elementos para considerar  algo como un “contrato inteligente”:  
 
 1. La transacción debe implicar más que la mera transferencia de una moneda virtual de una persona a otra (por  ejemplo, una transferencia de un pago). 
@@ -208,16 +208,16 @@ En cambio, en los “contratos inteligentes” no se necesita  ni de notarios ni
 …“En un caso hipotético, tu cliente te pagó sólo el 80% del  valor acordado argumentando que había estado “insatisfecho” con el producto o servicio que le vendiste. Aquí existe una decisión que tomar: ¿es importante irme a juicio para  cobrar el 20% restante o no? “. Con “contratos inteligentes”, el 100% del valor de la  operación ya está asegurado en la cadena de bloques,  la cual técnicamente actúa como un “intermediario” reteniendo el dinero o valor de la transacción, mismo que será  automáticamente liberado o depositado a la criptobilletera del vendedor una vez que las condiciones del contrato se  hayan cumplido.”  
 
 # CRIPTO ACTIVOS S.I.E.C.
-## SISTEMA DE INTERCAMBIO ECONÓMICO COMUNAL.
+## :satellite: SISTEMA DE INTERCAMBIO ECONÓMICO COMUNAL.
 
-## MISTERIO Github.
+## :octocat: MISTERIO Github.
 Escuela de Misterio Fuente de Agua Viva Los 7 Mares del Cielo.
 Repositorios Proyecto: YHWHcore/YHWHcore
 NOMENSCLATURA: XIIIEMFAL7MC
 
-https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
+:octocat: https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
 
-https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de-agua-viva-los-7-mares-del-cielo
+:octocat: https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de-agua-viva-los-7-mares-del-cielo
 
 ## YHWHcore v1.0.0.0-g 64 bit (main)
 
@@ -227,13 +227,13 @@ https://github.com/orgs/YHWHcore-webnode-com/teams/escuela-de-misterio-fuente-de
 
 *YHWH.txt
 
-Detalles del proyecto YHWHcore https://yhwhcore.webnode.page
+:rocket: Detalles del proyecto YHWHcore https://yhwhcore.webnode.page
 
-Detalles del proyecto YHWHcore https://yhwhcore7.webnode.com.ve
+:rocket: Detalles del proyecto YHWHcore https://yhwhcore7.webnode.com.ve
 
 # YHWHcore v 1.0.0.0-g 32 bit (Test)
 ## YHWHcore (MAN) 
-## ¿ Billetera YHWHcore (MAN) qt en Ubuntu Desktop 18.04 (TESTnet)?
+##  :handbag: ¿ Billetera YHWHcore (MAN) qt en Ubuntu Desktop 18.04 (TESTnet)?
 ## Actualiza tu máquina de Ubuntu.
     sudo apt-get update
     sudo apt-get upgrade
@@ -378,18 +378,18 @@ Actualizar  máquina de Ubuntu.
      mkdir source_code
      cd source_code
 
-## Github Proyecto YHWHcore Linea de Tiempo
+## :octocat: Github Proyecto YHWHcore Linea de Tiempo
 Repositorios de Ejemplo, Utilizados para la Creacion de la Plataforma YHWHcore. (Bifurcaion, integracion, Clonacion de repositorios, Colaboracion e Implementacion de Codigos y aplicaciones tecnologicas).
 
-https://github.com/mang6666
+:octocat: https://github.com/mang6666
 
-https://github.com/YHWHcore 
+:octocat: https://github.com/YHWHcore 
 
- # BILLETERA YHWHcore  CADENA DE BLOQUES TRON.
-## YHWHcoin TRC10
+ #  :handbag: BILLETERA YHWHcore  CADENA DE BLOQUES TRON.
+## :bookmark_tabs: YHWHcoin TRC10
 Un Cripto activo soberano respaldado y emitido por El Banco de Economía Comunal de la Comuna Socialista LA PAZ a través del ESTADO COMUNAL ABYA YALA, sobre una plataforma de cadena de bloques Cripto activo de recompensa se puede adquirir por medio de canje de YHWH Coin TRC10 adquirido en la Preventa, AIRDROP CHAT, Telegram, promociones, recompensas, sorteos, trueque, canje, compra en plataformas digitales Compra en la Oferta Inicial abierta a la participación del público en general. En el mercado secundario una vez terminado el proceso de Oferta Inicial.
 
-DESCRIPCIÓN GENERAL:
+:memo: DESCRIPCIÓN GENERAL:
 
 Suministro total: 1, 100, 010, 000,010 YHWH
 
@@ -420,10 +420,10 @@ Enlace: https://tronscan.org/#/token/1002628
 
 *Twitter: https://twitter.com/HcoinYhw
 
-## YHWHcoin TRC20.
+## :bookmark_tabs: YHWHcoin TRC20.
 Es un Criptoactivo soberano. Emitido por El Banco de Economía Comunal de la Comuna Socialista LA PAZ a través de la Cadena de Bloques del Sistema TRON.  El YHWHcoin TRC20 criptoactivo emitido para lograr la descentralización del sistema Económico Comunal del sistema financiero de los Bancos Centrales.
 
-DESCRIPCIÓN GENERAL:
+:memo: DESCRIPCIÓN GENERAL:
 
 Suministro total: 1, 000, 000, 000,000.000000 YHWH
 
@@ -451,7 +451,7 @@ Versión del compilador: solidez 0.4.25
 
 https://tronscan.org/#/token20/TGaGtugb1myFiUAsfhffTruPX2PAnsw6Cp
 
-## CONTRATO: YHWHtoken.sol
+## :bookmark_tabs: CONTRATO: YHWHtoken.sol
 
      pragma solidity ^0.4.23;
      interface tokenRecipient { 
@@ -575,10 +575,10 @@ https://tronscan.org/#/token20/TGaGtugb1myFiUAsfhffTruPX2PAnsw6Cp
 
      6000805460b060020a60ff021916760600000000000000000000000000000000000000000000179081905560ff76010000000000000000000000000000000000000000000090910416600a0a64e8d4a510000260015560c0604052600860808190527f59485748636f696e00000000000000000000000000000000000000000000000060a09081526100949160029190610141565b506040805180820190915260048082527f594857480000000000000000000000000000000000000000000000000000000060209092019182526100d991600391610141565b503480156100e657600080fd5b50d380156100f357600080fd5b50d2801561010057600080fd5b506000805433600160a060020a03199091161760a060020a61ffff021981168255600154600160a060020a03909116825260046020526040909120556101dc565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061018257805160ff19168380011785556101af565b828001600101855582156101af579182015b828111156101af578251825591602001919060010190610194565b506101bb9291506101bf565b5090565b6101d991905b808211156101bb57600081556001016101c5565b90565b610b03806101eb6000396000f3006080604052600436106100cc5763ffffffff60e060020a60003504166306fdde0381146100d1578063095ea7b3146101755780630f0b87fe146101c757806318160ddd146101fd57806323b872dd1461023e578063313ce56714610282578063386c69f2146102c757806342966c68146102fb57806370a082311461032d57806395d89b4114610368578063a9059cbb14610397578063c1eb1840146103d5578063cae9ca5114610404578063dd62ed3e1461044f578063f2fde38b14610490578063fa7b2684146104cb575b600080fd5b3480156100dd57600080fd5b50d380156100ea57600080fd5b50d280156100f757600080fd5b506101006104fa565b6040805160208082528351818301528351919283929083019185019080838360005b8381101561013a578181015183820152602001610122565b50505050905090810190601f1680156101675780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b34801561018157600080fd5b50d3801561018e57600080fd5b50d2801561019b57600080fd5b506101b3600160a060020a0360043516602435610585565b604080519115158252519081900360200190f35b3480156101d357600080fd5b50d380156101e057600080fd5b50d280156101ed57600080fd5b506101fb60043515156105eb565b005b34801561020957600080fd5b50d3801561021657600080fd5b50d2801561022357600080fd5b5061022c610640565b60408051918252519081900360200190f35b34801561024a57600080fd5b50d3801561025757600080fd5b50d2801561026457600080fd5b506101b3600160a060020a0360043581169060243516604435610646565b34801561028e57600080fd5b50d3801561029b57600080fd5b50d280156102a857600080fd5b506102b16106b3565b6040805160ff9092168252519081900360200190f35b3480156102d357600080fd5b50d380156102e057600080fd5b50d280156102ed57600080fd5b506101fb60043515156106c3565b34801561030757600080fd5b50d3801561031457600080fd5b50d2801561032157600080fd5b506101b3600435610718565b34801561033957600080fd5b50d3801561034657600080fd5b50d2801561035357600080fd5b5061022c600160a060020a03600435166107be565b34801561037457600080fd5b50d3801561038157600080fd5b50d2801561038e57600080fd5b506101006107d9565b3480156103a357600080fd5b50d380156103b057600080fd5b50d280156103bd57600080fd5b506101b3600160a060020a0360043516602435610834565b3480156103e157600080fd5b50d380156103ee57600080fd5b50d280156103fb57600080fd5b506101b3610848565b34801561041057600080fd5b50d3801561041d57600080fd5b50d2801561042a57600080fd5b506101b360048035600160a060020a0316906024803591604435918201910135610858565b34801561045b57600080fd5b50d3801561046857600080fd5b50d2801561047557600080fd5b5061022c600160a060020a0360043581169060243516610925565b34801561049c57600080fd5b50d380156104a957600080fd5b50d280156104b657600080fd5b506101fb600160a060020a0360043516610950565b3480156104d757600080fd5b50d380156104e457600080fd5b50d280156104f157600080fd5b506101b36109ba565b6002805460408051602060018416156101000260001901909316849004601f8101849004840282018401909252818152929183018282801561057d5780601f106105525761010080835404028352916020019161057d565b820191906000526020600020905b81548152906001019060200180831161056057829003601f168201915b505050505081565b336000818152600560209081526040808320600160a060020a038716808552908352818420869055815186815291519394909390927f8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925928290030190a350600192915050565b600054600160a060020a0316331461060257600080fd5b60005460a860020a900460ff161515811515141561061f57600080fd5b6000805491151560a860020a0260a860020a60ff0219909216919091179055565b60015481565b600160a060020a038316600090815260056020908152604080832033845290915281205482111561067657600080fd5b600160a060020a03841660009081526005602090815260408083203384529091529020805483900390556106ab8484846109ca565b949350505050565b60005460b060020a900460ff1681565b600054600160a060020a031633146106da57600080fd5b60005460a060020a900460ff16151581151514156106f757600080fd5b6000805491151560a060020a0260a060020a60ff0219909216919091179055565b6  0008054819060a060020a900460ff16151560011461073657600080fd5b5033600090815260046020526040902054828110801590610758575082600154115b151561076357600080fd5b336000818152600460209081526040918290208685039055600180548790039055815186815291517fcc16f5dbb4873280815c1ee09dbd06736cffcc184412cf7a71a0fdb75d397ca59281900390910190a250600192915050565b600160a060020a031660009081526004602052604090205490565b6003805460408051602060026001851615610100026000190190941693909304601f8101849004840282018401909252818152929183018282801561057d5780601f106105525761010080835404028352916020019161057d565b60006108413384846109ca565b9392505050565b60005460a060020a900460ff1681565b60008054819060a860020a900460ff16151560011461087657600080fd5b50846108828186610585565b1561091c5760405160e060020a63a2d5785302815233600482018181526024830188905260606044840190815260648401879052600160a060020a0385169363a2d5785393928a928a928a929190608401848480828437820191505095505050505050600060405180830381600087803b1580156108ff57600080fd5b505af1158015610913573d6000803e3d6000fd5b50505050600191505b50949350505050565b600160a060020a03918216600090815260056020908152604080832093909416825291909152205490565b600054600160a060020a0316331461096757600080fd5b600160a060020a0381161580159061098d5750600054600160a060020a03828116911614155b151561099857600080fd5b60008054600160a060020a031916600160a060020a0392909216919091179055565b60005460a860020a900460ff1681565b600080808080600160a060020a03871615156109e557600080fd5b600160a060020a038816600090815260046020526040812054945086118015610a0e5750858410155b1515610a1957600080fd5b600160a060020a03871660009081526004602052604090205492508583019150828211610a4557600080fd5b50600160a060020a03808816600090815260046020526040808220888703908190559289168252902082905582840182820114610a7e57fe5b86600160a060020a031688600160a060020a03167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef886040518082815260200191505060405180910390a35060019796505050505050505600a165627a7a7230582049dc4f4c98ef897255f23844c151c99a7668fb4a94935df7177b29e086ccb79d0029
 
-## YHVH token TRC20. 
+## :bookmark_tabs: YHVH token TRC20. 
 YHVH Token es un Cripto activo soberano Emitido por El Banco de Economía Comunal de la Comuna Socialista LA PAZ a través del ESTADO COMUNAL ABYA YALA, sobre una plataforma de cadena de bloques. Para lograr la descentralización del sistema Económico Comunal del sistema financiero Central. Dando apertura a la ejecución y desarrollo de nuestra plataforma de Cripto Activos SIEC, Sistema de Intercambio Económico Comunal.
 
-DESCRIPCIÓN GENERAL 
+:memo: DESCRIPCIÓN GENERAL 
 
 Suministro total: 1.102.030.508.013 MAN
 
@@ -760,7 +760,7 @@ CONTRATO INTELIGENTE
      60c0604052600c60808190527f59485748636f726520302e32000000000000000000000000000000000000000060a090815261003e9160069190610137565b5034801561004b57600080fd5b50d3801561005857600080fd5b50d2801561006557600080fd5b50336000908152602081815260409182902065010096230fed90819055600855815180830190925260098083527f59485748746f6b656e0000000000000000000000000000000000000000000000929091019182526100c691600391610137565b506004805460ff19166003908117909155604080518082019091528181527f4d414e0000000000000000000000000000000000000000000000000000000000602090910190815261011a9160059190610137565b50600160075560098054600160a060020a031916331790556101d2565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061017857805160ff19168380011785556101a5565b828001600101855582156101a5579182015b828111156101a557825182559160200191906001019061018a565b506101b19291506101b5565b5090565b6101cf91905b808211156101b157600081556001016101bb565b90565b610a99806101e16000396000f3006080604052600436106100ab5763ffffffff60e060020a60003504166306fdde03811461017a578063095ea7b31461021e57806318160ddd146102705780632194f3a2146102b157806323b872dd146102fc578063313ce5671461034057806354fd4d501461038557806365f2bc2e146103b457806370a08231146103e357806395d89b411461041e578063a9059cbb1461044d578063cae9ca511461048b578063dd62ed3e1461050e575b6008805434908101909155600754600954600160a060020a03166000908152602081905260409020549102908111156100e357600080fd5b60098054600160a060020a039081166000908152602081815260408083208054879003905533808452928190208054870190559354845186815294519294931692600080516020610a2e833981519152929081900390910190a3600954604051600160a060020a03909116903480156108fc02916000818181858888f19350505050158015610176573d6000803e3d6000fd5b5050005b34     801561018657600080fd5b50d3801561019357600080fd5b50d280156101a057600080fd5b506101a961054f565b6040805160208082528351818301528351919283929083019185019080838360005b838110156101e35781810151838201526020016101cb565b50505050905090810190601f1680156102105780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b34801561022a57600080fd5b50d3801561023757600080fd5b50d2801561024457600080fd5b5061025c600160a060020a03600435166024356105dd565b604080519115158252519081900360200190f35b34801561027c57600080fd5b50d3801561028957600080fd5b50d2801561029657600080fd5b5061029f610632565b60408051918252519081900360200190f35b3480156102bd57600080fd5b50d380156102ca57600080fd5b50d280156102d757600080fd5b506102e0610638565b60408051600160a060020a039092168252519081900360200190f35b34801561030857600080fd5b50d3801561031557600080fd5b50d2801561032257600080fd5b5061025c600160a060020a0360043581169060243516604435610647565b34801561034c57600080fd5b50d3801561035957600080fd5b50d2801561036657600080fd5b5061036f610720565b6040805160ff9092168252519081900360200190f35b34801561039157600080fd5b50d3801561039e57600080fd5b50d280156103ab57600080fd5b506101a9610729565b3480156103c057600080fd5b50d380156103cd57600080fd5b50d280156103da57600080fd5b5061029f610784565b3480156103ef57600080fd5b50d380156103fc57600080fd5b50d2801561040957600080fd5b5061029f600160a060020a036004351661078a565b34801561042a57600080fd5b50d3801561043757600080fd5b50d2801561044457600080fd5b506101a96107a5565b34801561045957600080fd5b50d3801561046657600080fd5b50d2801561047357600080fd5b5061025c600160a060020a0360043516602435610800565b34801561049757600080fd5b50d380156104a457600080fd5b50d280156104b157600080fd5b50604080516020600460443581810135601f810184900484028501840190955284845261025c948235600160a060020a03169460248035953695946064949201919081908401838280828437509497506108859650505050505050565b34801561051a57600080fd5b50d3801561052757600080fd5b50d2801561053457600080fd5b5061029f600160a060020a0360043581169060243516610a02565b6003805460408051602060026001851615610100026000190190941693909304601f810184900484028201840190925281815292918301828280156105d55780601f106105aa576101008083540402835291602001916105d5565b820191906000526020600020905b8154815290600101906020018083116105b857829003601f168201915b505050505081565b336000818152600160209081526040808320600160a060020a03871680855290835281842086905581518681529151939490939092600080516020610a4e833981519152928290030190a35060015b92915050565b60085481565b600954600160a060020a031681565b600160a060020a03831660009081526020819052604081205482118015906106925750600160a060020a03841660009081526001602090815260408083203384529091529020548211155b801561069e5750600182115b1561071557600160a060020a0380841660008181526020818152604    08083208054880190559388168083528483208054889003905560018252848320338452825291849020805487900390558351868152935192939192600080516020610a2e8339815191529281900390910190a3506001610719565b5060005b9392505050565b60045460ff1681565b6006805460408051602060026001851615610100026000190190941693909304601f810184900484028201840190925281815292918301828280156105d55780601f106105aa576101008083540402835291602001916105d5565b60075481565b600160a060020a031660009081526020819052604090205490565b6005805460408051602060026001851615610100026000190190941693909304601f810184900484028201840190925281815292918301828280156105d55780601f106105aa576101008083540402835291602001916105d5565b33600090815260208190526040812054821180159061081f5750600182115b1561087d573360008181526020818152604080832080548790039055600160a060020a0387168084529281902080548701905580518681529051929392600080516020610a2e833981519152929181900390910190a350600161062c565b50600061062c565b336000818152600160209081526040808320600160a060020a03881680855290835281842087905581518781529151939490939092600080516020610a4e833981519152928290030190a383600160a060020a031660405180807f72656365697665417070726f76616c28616464726573732c75696e743235362c8152602001609060020a6d616464726573732c62797465732902815250602e019050604051809103902060e060020a9004338530866040518563ffffffff1660e060020a0281526004018085600160a060020a0316600160a060020a0316815260200184815260200183600160a060020a0316600160a060020a03168152602001828051906020019080838360005b838110156109a757818101518382015260200161098f565b50505050905090810190601f1680156109d45780820380516001836020036101000a031916815260200191505b509450505050506000604051808303816000875af19250505015156109f857600080fd5b5060019392505050565b600160a060020a039182166000908152600160209081526040808320939094168252919091522054905600ddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925a165627a7a723058206e15e1d722ac3d184299f4747f9d94bea594254cc49c74d157a6062aca5526fb0029
       
 
-# NUBE YHWHcore                                                                     
+# :milky_way:  CONSTELACION YHWHcore   :milky_way:                                                                  
 Medios de entrada de INFO.
 
 ## YHWHcore I  
@@ -774,17 +774,16 @@ Windows. Sistema operativo, programa de software que admite funciones para la ad
 
 *SAM Broadcaster. Es una aplicación de transmission de radio por Internet de Spacial. El nombre "SAM" es un acrónimo de Streaming Audio Manager, que describe la funcionalidad del software. El software presenta funcionalidades para ejecutar una estación de radio por Internet desde una sola computadora.                                                                    
 *GitHub Desktop. (Alpha y Omega).
-MAN6666XIIIEMFAL7MC
+:octocat: MAN6666XIIIEMFAL7MC
 
 ## YHWHcore Pi
 *Raspbian: Debían 11. Sistema operativo de código abierto GNU/Linux basado en Debian. 
 
 *NAS: Sistema operativo  IoT, de almacenamiento para acceder a archivos específicos desde la red.               
 
-##(Google Apps)
+## (Google Apps)
 Un servicio ofrecido por Google que contiene herramientas diseñadas para crear, archivar y compartir información de manera digital, donde se puede organizar de forma sencilla el trabajo y la comunicación entre usuarios a través de correo electrónico.
 
-## Aplicaciones de Google.
 El paquete de Google Apps se compone de aplicaciones de colaboración y productividad para empresas, más específicamente, está conformado por las apps: Gmail, Google Calendar, Google Drive, Google Docs, Hojas de cálculo de Google, Presentaciones de Google, Google Sites y Hangouts.
 
 * apps Make Integromatic (INTERGRACION APP). 
@@ -792,7 +791,7 @@ El paquete de Google Apps se compone de aplicaciones de colaboración y producti
 * Google Drive - (Almacenamiento).
 * Base de Datos Global ACCES. Microsoft.(S.I.E.C.).
 
-## CORREOS DE ACCESO.
+## :love_letter: CORREOS DE ACCESO.
 * SECRETARIA DE LA MAGISTRATURA DE ECONOMÍA COMUNAL 
 Email: secretaria.economia.comunal@gmail.com 
 ____________________________
@@ -824,7 +823,7 @@ ____________________________
 * BANCA MULTICENTRICA PLURINACIONAL ABYA YALA 
 Email: bancamulticentricaplurinaciona@gmail.com 
 
-## EMAIL DE LAS REGIONES ECONOMICAS ECAY:
+## :e-mail: EMAIL DE LAS REGIONES ECONOMICAS ECAY:
 * REGION ECONÓMICA  ANDINA 
 Email: regióneconomicaandina@gmail.com 
 ____________________________
@@ -840,18 +839,18 @@ _____________________________
 * REGION ECONÓMICA OCCIDENTAL 
 Email: regioneconomicaoccidental.5.2023@gmail.com
 _____________________________
-* REGION ECONÓMICA ORIENTAL 6
-Email: regioneconomicaoriental@gmail.com 
+* REGION ECONÓMICA ORIENTAL 
+Email: regionORIENTAL6.2023@gmail.com 
 ______________________________
-* REGIÓN ECONÓMICA ESPECIAL JIWASA 7
+* REGIÓN ECONÓMICA ESPECIAL JIWASA 
 Email: region.especial.jiwasa.7.2023@gmail.com 
 _______________________________
 * OPERADOR DE SISTEMA
 Email: operador.de.sistema.2023@gmail.com 
 
-# Bot en Telegram                                                                                                                              
+# :speech_balloon: Bot en Telegram                                                                                                                              
 
-## APP Telegram. 
+## :incoming_envelope: APP Telegram. 
 Telegram web. Plataforma de mensajería VOIP. Aplicación enfocada en la mensajería instantánea de archivos para la comunicación en masa.
 
 ## Bot en Telegram
@@ -920,7 +919,7 @@ Ahora la función de bucle de mensajes está definida y hecha para ejecutarse co
      while 1:
     time.sleep(10)                                                             
 
-## BOT Telegram Intergrados.  
+## :incoming_envelope: BOT Telegram Intergrados.  
 Seedit
 https://t.me/GoSeeditBot
 
@@ -930,7 +929,7 @@ https://t.me/BotFather
 Manybot
 https://t.me/Manybot
 
-## BOT Telegram Asociados.
+## :dependabot: BOT Telegram Asociados.
 BotYHWH
 https://t.me/MAN100010000001000000000_bot
 
@@ -952,7 +951,7 @@ https://t.me/REGION_costera_bot
 Región Llanera
 https://t.me/REGION_llanera_bot
                                                                                                                                                                                                                                                         
-## CANALES Telegram
+## :mega: CANALES Telegram
 
 Regiones
 https://t.me/GqHXRlanlY04MTVh
@@ -978,7 +977,7 @@ https://t.me/+BxhKiy9jNm9jNThh
 Región Central
 https://t.me/+oM0eWqnTVVIIZGYx
                                                                       
-## PAGINAS WEB                                                                     
+## :globe_with_meridians: PAGINAS WEB                                                                     
 
 YHWHcore INFO
 https://www.YHWHcore.webnode.page    
@@ -992,7 +991,7 @@ https://enroncorporationweb.webnode.es
 ENRONapp (app Contenido YHWHcore)
 https://www.enronapp.webnode.com.ve/ 
 
-## APP MOVILES. 
+## :iphone: APP MOVILES. 
 
 ECAY.apk
 (https://drive.google.com/file/d/1PTmIs9J7fZbr9DD77Ysacpj0q8daNlFm/view)
@@ -1000,11 +999,11 @@ ECAY.apk
 chatCLAP.apk 
 (https://drive.google.com/file/d/1elSslDOf6mQCwiWoyImXyQHE0FKtHOAN/view)
 
-## APP WEB.
+## :calling: :globe_with_meridians: APP WEB.
 YULIBOT-app
 (https://enronapp.webnode.com.ve/yulibot-app/)                                                                       
 
-## Enlaces Redes Sociales  
+## :link: Enlaces Redes Sociales  
 
 *Telegram: https://t.me/YHWHcoin
 
@@ -1012,7 +1011,7 @@ YULIBOT-app
 
 *Twitter: https://twitter.com/HcoinYhw                                                         
 
-## NODO Web 
+## NODO Web :globe_with_meridians:
 
 Detalles del proyecto enroncorporationweb https://enroncorporationweb.webnode.es
 
@@ -1036,14 +1035,14 @@ Detalles del proyecto juegosVN https://juegosvn.webnode.page
 
 Detalles del proyecto RTVO https://rtvo.webnode.page
 
-## YHWHcore.webnode
+## :octocat: YHWHcore.webnode
 Organizacion Github.
 Repositorios Proyecto YHWHcore/YHWHcore
-Link Github: https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
+:octocat: https://github.com/orgs/YHWHcore-webnode-com/people/MAN6666XIIIEMFAL7MC
 
-## NFT YHWHcore
+## :ticket: NFT YHWHcore
 
-NFT o 'tokens' no fungibles, activos digitales certificados mediante la tecnología Blockchain. Activo único que  acredita a su comprador como único propietario.
+:memo: NFT o 'tokens' no fungibles, activos digitales certificados mediante la tecnología Blockchain. Activo único que  acredita a su comprador como único propietario.
 
 Lanzamiento NFT YHWHcore. http://opensea.io/YHWHcore
 OpenSea
@@ -1059,10 +1058,10 @@ YHWH MAN LOGOS – Untitled Collection
 44985739 I OpenSea
 Art YHWH MAN BCLAP, Desing Marco Antonio Nieves Garcia
  
-## NFT YHWHcoin ( YHWH )TRC20.
+## :ticket: NFT YHWHcoin ( YHWH )TRC20.
 token no fungible (NFT) YHWHcoin
 
-Descripción general
+:memo: Descripción general
 
 Suministro total :	1,000,000,000,000.000000
 
