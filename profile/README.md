@@ -834,10 +834,10 @@ _____________________________
 Email: regioneconomicaoccidental.5.2023@gmail.com
 _____________________________
 * REGION ECONÓMICA ORIENTAL 6
-Email: regióneconomicaoriental@gmail.com 
+Email: regioneconomicaoriental@gmail.com 
 ______________________________
 * REGIÓN ECONÓMICA ESPECIAL JIWASA 7
-Email: región.especial.jiwasa.7.2023@gmail.com 
+Email: region.especial.jiwasa.7.2023@gmail.com 
 _______________________________
 * OPERADOR DE SISTEMA
 Email: operador.de.sistema.2023@gmail.com 
