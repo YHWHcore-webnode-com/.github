@@ -772,7 +772,100 @@ MAN6666XIIIEMFAL7MC
 ## YHWHcore Pi
 *Raspbian: Debían 11. Sistema operativo de código abierto GNU/Linux basado en Debian. 
 
-*NAS: Sistema operativo  IoT, de almacenamiento para acceder a archivos específicos desde la red.                                                              
+*NAS: Sistema operativo  IoT, de almacenamiento para acceder a archivos específicos desde la red.               
+
+##(Google Apps)
+Un servicio ofrecido por Google que contiene herramientas diseñadas para crear, archivar y compartir información de manera digital, donde se puede organizar de forma sencilla el trabajo y la comunicación entre usuarios a través de correo electrónico.
+
+## Aplicaciones de Google.
+El paquete de Google Apps se compone de aplicaciones de colaboración y productividad para empresas, más específicamente, está conformado por las apps: Gmail, Google Calendar, Google Drive, Google Docs, Hojas de cálculo de Google, Presentaciones de Google, Google Sites y Hangouts.
+
+* apps Make Integromatic (INTERGRACION APP). 
+* Google Form - (Formularios y carga de Documentos).
+* Google Drive - (Almacenamiento).
+* Base de Datos Global ACCES. Microsoft.(S.I.E.C.).
+
+## CORREOS DE ACCESO.
+* SECRETARIA DE LA MAGISTRATURA DE ECONOMÍA COMUNAL 
+Email: secretaria.economia.comunal@gmail.com 
+
+* ALPHA Y OMEGA MARNORE 
+CORREO: alphaomegamarnore@gmail.com 
+
+* ENRON CORPORACIÓN WEB 
+Email: enron.coporation.web.2023@gmail.com 
+
+* SALIDA DE DOCUMENTOS 
+Email: salidadedocumentos@gmail.com 
+
+* YHWHCORE YHWHCOIN
+Email: yhwhcore.webnode@gmail.com
+ 
+* COMUNA LA PAZ 
+Email: comunalapazz@gmail.com 
+Microsoft 
+Dropbox 
+
+* CONSEJO SOCIALISTA LA VIRTUD 
+Email: consejosocialistalavirtud@gmail.com 
+
+* ESTADO COMUNAL ABYA YALA 2023
+Email: estado.comunal.abya.yala.2023@gmail.com 
+-Microsoft 
+-Dropbox 
+
+* BANCA MULTICENTRICA PLURINACIONAL ABYA YALA 
+Email: bancamulticentricaplurinaciona@gmail.com 
+
+## EMAIL DE LAS REGIONES ECONOMICAS ECAY:
+* REGION ECONÓMICA  ANDINA 
+Email: regióneconomicaandina@gmail.com 
+
+-correo de recuperación- 
+Email: salidadedocumentos@gmail.com 
+Email: bancamulticentricaplurinaciona@gmail.com 
+____________________________
+* REGION ECONÓMICA CENTRAL 
+CORREO: regioneconomicacentral@gmail.com
+
+-correo de recuperación- 
+salidadedocumentos@gmail.com 
+_____________________________
+* REGION ECONOMICA COSTERA 
+Email: regioneconomicacostera@gmail.com 
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
+_____________________________
+* REGION ECONOMICA LLANERA 
+Email: regioneconomicallanera@gmail.com 
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
+_____________________________
+* REGION ECONÓMICA OCCIDENTAL 
+Email: regioneconomicaoccidental.5.2023@gmail.com
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
+_____________________________
+* REGION ECONÓMICA ORIENTAL 6
+Email: regióneconomicaoriental@gmail.com 
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
+______________________________
+* REGIÓN ECONÓMICA ESPECIAL JIWASA 7
+Email: región.especial.jiwasa.7.2023@gmail.com 
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
+_______________________________
+* OPERADOR DE SISTEMA
+Email: operador.de.sistema.2023@gmail.com 
+
+-correo de recuperación- 
+bancamulticentricaplurinaciona@gmail.com 
 
 # Bot en Telegram                                                                                                                              
 
